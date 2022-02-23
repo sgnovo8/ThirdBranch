@@ -7,3 +7,6 @@ contract TestFirstContract {
 	uint date;
 	string day;
 	uint time;
+
+	function addDataInfo(string memory _day) public {
+		day = _day;
