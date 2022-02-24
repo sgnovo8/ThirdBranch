@@ -1,1 +1,1 @@
-test -- new text document added to the .git "GitPractice" folder 
+test -- new text document added to the .git "GitPractice" folder so, here;s a new txt ddoc and im adding text to it via command line terminal
