@@ -11,5 +11,8 @@ contract TestK{
 		unit dob;
 
 	struct{
+
+		uint speedMPH;
+		
 	}
 }
